@@ -1,2 +1,1 @@
-# anteproyectoJGFREITEZ
-Anteproyecto Jose G Freitez B
+Descripcion del proyecto.
